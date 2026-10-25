@@ -1,0 +1,12 @@
+﻿{
+    "BackgroundFileName":  "",
+    "BackgroundColor":  "",
+    "TimeFontSize":  "9vw",
+    "DateFontSize":  "3vw",
+    "FontFamily":  "Segoe UI, Arial, sans-serif",
+    "FontColor":  "#FFFFFF",
+    "OverlayOpacity":  0.18,
+    "TimeFormat":  "hh:mm:ss A",
+    "DateFormat":  "dddd, MMMM D, YYYY",
+    "TextShadow":  "0 2px 6px rgba(0,0,0,0.6)"
+}

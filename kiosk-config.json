@@ -1,12 +1,17 @@
-﻿{
+{
+    "SchemaVersion":  4,
     "BackgroundFileName":  "",
-    "BackgroundColor":  "",
+    "BackgroundColor":  "#0B1220",
+    "OverlayOpacity":  0.18,
     "TimeFontSize":  "9vw",
     "DateFontSize":  "3vw",
-    "FontFamily":  "Segoe UI, Arial, sans-serif",
+    "FontFamily":  "\u0027Segoe UI\u0027, Arial, sans-serif",
+    "TimeFontFamily":  "Segoe UI",
+    "TimeFontStyle":  "Regular",
+    "DateFontFamily":  "Segoe UI",
+    "DateFontStyle":  "Regular",
     "FontColor":  "#FFFFFF",
-    "OverlayOpacity":  0.18,
+    "TextShadow":  "0 2px 6px rgba(0,0,0,0.60)",
     "TimeFormat":  "hh:mm:ss A",
-    "DateFormat":  "dddd, MMMM D, YYYY",
-    "TextShadow":  "0 2px 6px rgba(0,0,0,0.6)"
+    "DateFormat":  "dddd, MMMM D, YYYY"
 }

@@ -173,8 +173,6 @@ kiosk.html
 README.md
 CHANGELOG.md
 LICENSE
-Start-Kiosk.bat
-Start-Menu.bat
 assets\
 ```
 
